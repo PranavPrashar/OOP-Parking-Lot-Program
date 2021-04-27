@@ -1,0 +1,13 @@
+customerEmail,parkingSpotNumber,parkingTime,licenseNumber,parkingSpotQty,parkingStatus
+pranav98@my.yorku.ca,2,60,abcd,2,true
+pranav98@my.yorku.ca,3,60,abcd,3,true
+"",22,60,ahaha,4,false
+"",1,60,abcd,4,false
+"",24,60,abcd,5,false
+eshaan@live.ca,60,60,abcd,6,true
+eshaan@live.ca,61,61,abcd,7,true
+eshaan@live.ca,28,60,abcd,8,true
+prasherlucky@gmail.com,25,60,pranavCar,9,false
+prasherlucky@gmail.com,26,60,pranavCar,10,false
+testing@gmail.com,90,60,testingCar,11,false
+testing@gmail.com,92,60,testingCar,13,true

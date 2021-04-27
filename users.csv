@@ -1,0 +1,3 @@
+firstName,lastName,id,email,password,userType,loginStatus,paymentStatusCustomer
+pranav,prashar,01,pranav98@my.yorku.ca,testing,Officer,false,true
+testing,testing,11,testing@gmail.com,testing,User,true,false
