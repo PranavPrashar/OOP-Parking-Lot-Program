@@ -5,12 +5,12 @@
 - Demo can be seen at: https://drive.google.com/drive/folders/1Q-jOIDRU6ACzmbR8J7FUHq8WO6vrfW7P
 
 <h2> Features Developed </h2>
+
 - Login System
 - Customer Registration
 - Parking Spot booking System
 - Payment System
 - Admin Parking System
-- 
 
 
 
